@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-recommendations-react-native",
+  "capabilityKey": "liberusoftware/module-cms-recommendations",
+  "presentation": "mobile-react",
+  "package": "@liberusoftware/module-cms-recommendations-react-native",
+  "foundation": "module-boilerplate-react-native",
+  "foundationCommit": "b63bc1b11fe769e2e547a3f1fced6116556fe9e1",
+  "canonicalPlan": "projects/cms/nextjs/recommendations.md",
+  "presentationPlan": "projects/cms/react-native/recommendations.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
